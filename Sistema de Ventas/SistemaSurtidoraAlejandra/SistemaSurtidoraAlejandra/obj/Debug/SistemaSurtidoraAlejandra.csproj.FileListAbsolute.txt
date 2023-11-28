@@ -1,0 +1,153 @@
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SistemaSurtidoraAlejandra.exe.config
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SistemaSurtidoraAlejandra.exe
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SistemaSurtidoraAlejandra.pdb
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaDatos.dll
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaEntidad.dll
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaNegocio.dll
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SpreadsheetLight.dll
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\System.Drawing.Common.dll
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\System.IO.Packaging.dll
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaDatos.pdb
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaEntidad.pdb
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaNegocio.pdb
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SpreadsheetLight.xml
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\System.IO.Packaging.xml
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.AssemblyReference.cache
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.FormulariosModales.modalProd.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.FormulariosModales.modalProv.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Properties.Resources.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmCategoria.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmClientes.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmCompras.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmDatosSurtidora.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmDetalleCompras.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmLogin.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmMarcas.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmProductos.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmProveedores.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmReporteCompra.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmUsuarios.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.MDIfrmMenu.resources
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.GenerateResource.cache
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.CoreCompileInputs.cache
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.CopyComplete
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.exe
+E:\Proyecto Base De Datos I\Sistema De Ventas Surtidora Alejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SistemaSurtidoraAlejandra.exe.config
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SistemaSurtidoraAlejandra.exe
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SistemaSurtidoraAlejandra.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaDatos.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaEntidad.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaNegocio.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Common.Logging.Core.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Common.Logging.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\itext.licensekey.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\itextsharp.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\itextsharp.xfaworker.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Jint.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SpreadsheetLight.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\System.Drawing.Common.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\System.IO.Packaging.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\EnvDTE.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\stdole.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaDatos.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaDatos.dll.config
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaEntidad.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaEntidad.dll.config
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaNegocio.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\CapaNegocio.dll.config
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Common.Logging.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Common.Logging.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\Common.Logging.Core.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\itext.licensekey.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\itextsharp.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\SpreadsheetLight.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\System.IO.Packaging.xml
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.AssemblyReference.cache
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.FormulariosModales.modalClient.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.FormulariosModales.modalProd.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.FormulariosModales.modalProv.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Properties.Resources.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Reportes.Factura.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmCategoria.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmClientes.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmCompras.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmDatosSurtidora.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmDetalleCompras.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmDetalleVenta.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmLogin.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmMarcas.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmProductos.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmProveedores.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmReporteCompra.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmReporteVenta.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.frmUsuarios.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.frmVentas.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.Vistas.MDIfrmMenu.resources
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.GenerateResource.cache
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.csproj.CopyComplete
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.exe
+C:\Users\Cesar Cerda\Desktop\Sistema de Ventas\SistemaSurtidoraAlejandra\SistemaSurtidoraAlejandra\obj\Debug\SistemaSurtidoraAlejandra.pdb
